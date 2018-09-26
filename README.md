@@ -10,3 +10,6 @@ Penn Treebank II illustration:
 
 NLTK/3.3-documentation_Source-code-for-nltk.tree: 
   https://www.nltk.org/_modules/nltk/tree.html
+
+简单句的五种基本句型精析: 
+  https://www.hjenglish.com/juxing/p1206680/
