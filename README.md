@@ -7,3 +7,6 @@ nltk.tree illustration:
 
 Penn Treebank II illustration: 
   https://gist.github.com/nlothian/9240750
+
+NLTK/3.3-documentation_Source-code-for-nltk.tree: 
+  https://www.nltk.org/_modules/nltk/tree.html
