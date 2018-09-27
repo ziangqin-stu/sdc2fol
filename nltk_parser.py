@@ -13,5 +13,5 @@ def sentence2tree(sent):
     return result[0]
 
 
-def draw_tree(li):
-    li[0].draw()
+def draw_tree(tree):
+    tree.draw()

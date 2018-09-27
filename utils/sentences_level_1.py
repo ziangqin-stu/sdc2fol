@@ -1,7 +1,11 @@
-from nltk_parser import sentence2tree
-from nltk_parser import draw_tree
+from utils.parse_util_level_1 import *
+
 
 sentArr = [
+    [
+        "We come.",
+        "The baby cried."
+    ],
     [
         "Birds sing beautifully",
         "He went on holiday",
@@ -11,8 +15,8 @@ sentArr = [
     [
         "He is a boy.",
         "She is beautiful.",
-        "Class isover.",
-        "He isin good health.",
+        "Class is over.",
+        "He is in good health.",
         "He is excited. "
      ],
     [
