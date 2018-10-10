@@ -28,6 +28,7 @@ Try transfer NL-sentence to FOL from via stanford-parser
 0.1.1:  
 1. 处理各层并列结构;
 2. 处理嵌套结构;
+3. 处理否定结构;
 
 ## 关于嵌套
 1. 语句中的嵌套是在句子子结构中包含其他句子子结构的现象；
