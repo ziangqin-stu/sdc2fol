@@ -23,7 +23,7 @@ Try transfer NL-sentence to FOL from via stanford-parser
 ## Plan of Version
 0.1.0: √
 1. 初步设计代码框架; √
-2. 完成简单句五种基本类型中不涉及并列结构，否定结构的初步解析，可以解析简单例句; √
+2. 完成简单句五种基本类型中不涉及并列结构/否定结构/SDC以外句型的初步解析，可以解析简单例句; √
 
 0.1.1:  
 1. 处理各层并列结构(and, not, modal, ...);
